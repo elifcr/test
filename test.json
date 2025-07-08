@@ -2,19 +2,19 @@
   "sequence": [
     {
       "type": "image",
-      "url": "https://picsum.photos/seed/pic3/800/600"
+      "url": "https://cdn.pixabay.com/photo/2025/06/11/22/12/kackar-mountains-9655201_1280.jpg"
     },
     {
       "type": "image",
-      "url": "https://picsum.photos/seed/pic4/800/600"
+      "url": "https://media.istockphoto.com/id/2068052278/tr/foto%C4%9Fraf/kackar-mountains.jpg?s=1024x1024&w=is&k=20&c=g6YES7ftBbugDSlYtAe_QDbWtzqc0Ez44ShrpTNOVew="
     },
     {
       "type": "image",
-      "url": "https://picsum.photos/seed/pic5/800/600"
+      "url": "https://media.istockphoto.com/id/2068052276/tr/foto%C4%9Fraf/rize-province.jpg?s=1024x1024&w=is&k=20&c=G43vuPF3usBksEm-gEXpw0n_OCL4PwFCrzeUY9jhy-w="
     },
     {
       "type": "image",
-      "url": "https://picsum.photos/seed/pic6/800/600"
+      "url": "https://cdn.pixabay.com/photo/2023/01/02/06/12/mountain-7691382_1280.jpg"
     }
   ]
 }
