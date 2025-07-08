@@ -1,18 +1,20 @@
-{
+"layout": 4,
   "sequence": [
     {
       "type": "image",
-      "url": "https://sample-videos.com/img/Sample-jpg-image-5mb.jpg",
-      "duration": 5
-    },
-    {
-      "type": "video",
-      "url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+      "url": "https://picsum.photos/seed/pic3/800/600"
     },
     {
       "type": "image",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg",
-      "duration": 6
+      "url": "https://picsum.photos/seed/pic4/800/600"
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/pic5/800/600"
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/pic6/800/600"
     }
   ]
 }
