@@ -1,21 +1,24 @@
 {
-  "layout": 4,
-  "sequence": [
+  "slides": [
     {
-      "type": "image",
-      "url": "https://cdn.pixabay.com/photo/2025/06/11/22/12/kackar-mountains-9655201_1280.jpg"
+      "layout": 4,
+      "duration": 5,
+      "sequence": [
+        { "type": "image", "url":"https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_1280.jpg" },
+        { "type": "image", "url":"https://cdn.pixabay.com/photo/2020/02/15/20/38/noodles-4851996_1280.jpg" },
+        { "type": "image", "url":"https://cdn.pixabay.com/photo/2015/11/19/10/38/food-1050813_1280.jpg" },
+        { "type": "image", "url":"https://cdn.pixabay.com/photo/2020/01/17/16/42/food-4773380_1280.jpg" }
+      ]
     },
     {
-      "type": "image",
-      "url": "https://media.istockphoto.com/id/2068052278/tr/foto%C4%9Fraf/kackar-mountains.jpg?s=1024x1024&w=is&k=20&c=g6YES7ftBbugDSlYtAe_QDbWtzqc0Ez44ShrpTNOVew="
-    },
-    {
-      "type": "image",
-      "url": "https://media.istockphoto.com/id/2068052276/tr/foto%C4%9Fraf/rize-province.jpg?s=1024x1024&w=is&k=20&c=G43vuPF3usBksEm-gEXpw0n_OCL4PwFCrzeUY9jhy-w="
-    },
-    {
-      "type": "image",
-      "url": "https://cdn.pixabay.com/photo/2023/01/02/06/12/mountain-7691382_1280.jpg"
+      "layout": 4,
+      "duration": 8,
+      "sequence": [
+        { "type": "video", "url":"https://videos.pexels.com/video-files/1908426/1908426-uhd_2560_1440_25fps.mp4" },
+        { "type": "video", "url":"https://media.w3.org/2010/05/sintel/trailer.mp4" },
+        { "type": "video", "url":"https://videos.pexels.com/video-files/3015488/3015488-hd_1920_1080_24fps.mp4" },
+        { "type": "video", "url":"https://videos.pexels.com/video-files/2882090/2882090-uhd_2560_1440_24fps.mp4" }
+      ]
     }
   ]
 }
